@@ -110,25 +110,3 @@ Below are the classification results for fake news detection across different mo
 
 These results indicate the robustness of the EXMULF system and its explainability-enhanced detection capabilities.
 
-## Contributions
-
-We welcome and encourage contributions to the EXMULF project. If you would like to contribute, please follow these steps:
-
-1. **Fork** the repository on GitHub.
-2. **Create a new branch** for your feature, improvement, or bug fix:
-   ```git checkout -b feature-name```
-3. **Make your changes** to the code or documentation. Ensure your code is well-documented and adheres to the project's coding standards.
-4. **Commit your changes** with a meaningful commit message:
-```git commit -m "Added feature: [describe your feature]"```
-5. **Push to your branch**:
-```git push origin feature-name```
-6. **Submit a pull request** with a detailed description of the changes you made. Make sure to include:
-    - The purpose of the change.
-    - How the change was implemented.
-    - Any potential impact on existing code or performance.
-
-We will review your pull request and provide feedback or merge it if it meets the project requirements.
-
-## Acknowledgements
-
-This project was supported by research grants from the **University of Montreal** and other academic partners.
