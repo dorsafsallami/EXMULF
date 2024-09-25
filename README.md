@@ -1,10 +1,4 @@
 # [EXMULF: An Explainable Multimodal Content-Based Fake News Detection System](https://link.springer.com/chapter/10.1007/978-3-031-08147-7_12)
-**Contributors:**  
-- Sabrine Amri  
-- Dorsaf Sallami  
-- Esma Aimeur
-
-## Description
 
 EXMULF is an innovative system designed to detect fake news by analyzing both the textual content and associated images. It combines the power of explainable AI techniques and multimodal data analysis to provide veracity analysis. **This repository provides the source code and resources to replicate the experiments presented in the [EXMULF](https://link.springer.com/chapter/10.1007/978-3-031-08147-7_12) paper**.
 
